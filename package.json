@@ -28,5 +28,15 @@
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1",
     "vite": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/jsm-brainwave.git"
+  },
+  "author": "Rob Brennan <rob@therobbrennan.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/jsm-brainwave/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/jsm-brainwave#readme"
 }
